@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="VeterinariaModelStoreContainer" CdmEntityContainer="VeterinariaEntities">
+    <EntitySetMapping Name="Clientes">
+      <EntityTypeMapping TypeName="VeterinariaModel.Clientes">
+        <MappingFragment StoreEntitySet="Clientes">
+          <ScalarProperty Name="ClienteId" ColumnName="ClienteId" />
+          <ScalarProperty Name="Identificacion" ColumnName="Identificacion" />
+          <ScalarProperty Name="Nombres" ColumnName="Nombres" />
+          <ScalarProperty Name="Apellidos" ColumnName="Apellidos" />
+          <ScalarProperty Name="Direccion" ColumnName="Direccion" />
+          <ScalarProperty Name="Telefono" ColumnName="Telefono" />
+          <ScalarProperty Name="FechaDeNacimiento" ColumnName="FechaDeNacimiento" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Veterinarios">
+      <EntityTypeMapping TypeName="VeterinariaModel.Veterinarios">
+        <MappingFragment StoreEntitySet="Veterinarios">
+          <ScalarProperty Name="VeterinarioId" ColumnName="VeterinarioId" />
+          <ScalarProperty Name="Identificacion" ColumnName="Identificacion" />
+          <ScalarProperty Name="Nombres" ColumnName="Nombres" />
+          <ScalarProperty Name="Apellidos" ColumnName="Apellidos" />
+          <ScalarProperty Name="FechaDeNacimiento" ColumnName="FechaDeNacimiento" />
+          <ScalarProperty Name="Especialidad" ColumnName="Especialidad" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

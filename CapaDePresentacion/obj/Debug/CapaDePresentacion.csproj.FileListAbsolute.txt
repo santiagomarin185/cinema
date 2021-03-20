@@ -1,0 +1,54 @@
+C:\Users\Steven Suaza\Desktop\CapaDePresentacion\bin\Debug\CapaDePresentacion.exe.config
+C:\Users\Steven Suaza\Desktop\CapaDePresentacion\bin\Debug\CapaDePresentacion.exe
+C:\Users\Steven Suaza\Desktop\CapaDePresentacion\bin\Debug\CapaDePresentacion.pdb
+C:\Users\Steven Suaza\Desktop\CapaDePresentacion\obj\Debug\CapaDePresentacion.csprojAssemblyReference.cache
+C:\Users\Steven Suaza\Desktop\CapaDePresentacion\obj\Debug\CapaDePresentacion.Properties.Resources.resources
+C:\Users\Steven Suaza\Desktop\CapaDePresentacion\obj\Debug\CapaDePresentacion.csproj.GenerateResource.cache
+C:\Users\Steven Suaza\Desktop\CapaDePresentacion\obj\Debug\CapaDePresentacion.exe
+C:\Users\Steven Suaza\Desktop\CapaDePresentacion\obj\Debug\CapaDePresentacion.pdb
+C:\Users\Steven Suaza\Desktop\CapaDePresentacion\bin\Debug\CapaDeLogica.dll
+C:\Users\Steven Suaza\Desktop\CapaDePresentacion\bin\Debug\CapaDeDatos.dll
+C:\Users\Steven Suaza\Desktop\CapaDePresentacion\bin\Debug\CapaDeLogica.pdb
+C:\Users\Steven Suaza\Desktop\CapaDePresentacion\bin\Debug\CapaDeDatos.pdb
+C:\Users\Steven Suaza\Desktop\CapaDePresentacion\obj\Debug\CapaDePresentacion.csproj.CopyComplete
+C:\Users\Steven Suaza\Desktop\CapaDePresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Steven Suaza\Desktop\CapaDePresentacion\bin\Debug\MaterialSkin.dll
+C:\Users\Steven Suaza\Desktop\CapaDePresentacion\obj\Debug\CapaDePresentacion.FormLogin.resources
+C:\Users\Steven Suaza\Desktop\CapaDePresentacion\obj\Debug\CapaDePresentacion.FormPrincipal.resources
+C:\Users\Steven Suaza\Desktop\CapaDePresentacion\obj\Debug\CapaDePresentacion.FormClientes.resources
+C:\Users\Steven Suaza\Desktop\CapaDePresentacion\bin\Debug\EntityFramework.dll
+C:\Users\Steven Suaza\Desktop\CapaDePresentacion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Steven Suaza\Desktop\CapaDePresentacion\bin\Debug\CapaDeEntidades.dll
+C:\Users\Steven Suaza\Desktop\CapaDePresentacion\bin\Debug\EntityFramework.xml
+C:\Users\Steven Suaza\Desktop\CapaDePresentacion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Steven Suaza\Desktop\CapaDePresentacion\bin\Debug\CapaDeEntidades.pdb
+C:\Users\Steven Suaza\Desktop\CapaDePresentacion\bin\Debug\CapaDeEntidades.dll.config
+C:\Users\USER\Desktop\CapaDePresentacion\bin\Debug\CapaDePresentacion.exe.config
+C:\Users\USER\Desktop\CapaDePresentacion\bin\Debug\CapaDePresentacion.exe
+C:\Users\USER\Desktop\CapaDePresentacion\bin\Debug\CapaDePresentacion.pdb
+C:\Users\USER\Desktop\CapaDePresentacion\bin\Debug\CapaDeLogica.dll
+C:\Users\USER\Desktop\CapaDePresentacion\bin\Debug\EntityFramework.dll
+C:\Users\USER\Desktop\CapaDePresentacion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\CapaDePresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\USER\Desktop\CapaDePresentacion\bin\Debug\MaterialSkin.dll
+C:\Users\USER\Desktop\CapaDePresentacion\bin\Debug\CapaDeDatos.dll
+C:\Users\USER\Desktop\CapaDePresentacion\bin\Debug\CapaDeEntidades.dll
+C:\Users\USER\Desktop\CapaDePresentacion\bin\Debug\CapaDeLogica.pdb
+C:\Users\USER\Desktop\CapaDePresentacion\bin\Debug\EntityFramework.xml
+C:\Users\USER\Desktop\CapaDePresentacion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\CapaDePresentacion\bin\Debug\CapaDeDatos.pdb
+C:\Users\USER\Desktop\CapaDePresentacion\bin\Debug\CapaDeEntidades.pdb
+C:\Users\USER\Desktop\CapaDePresentacion\bin\Debug\CapaDeEntidades.dll.config
+C:\Users\USER\Desktop\CapaDePresentacion\obj\Debug\CapaDePresentacion.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\CapaDePresentacion\obj\Debug\CapaDePresentacion.FormClientes.resources
+C:\Users\USER\Desktop\CapaDePresentacion\obj\Debug\CapaDePresentacion.FormLogin.resources
+C:\Users\USER\Desktop\CapaDePresentacion\obj\Debug\CapaDePresentacion.FormPrincipal.resources
+C:\Users\USER\Desktop\CapaDePresentacion\obj\Debug\CapaDePresentacion.Properties.Resources.resources
+C:\Users\USER\Desktop\CapaDePresentacion\obj\Debug\CapaDePresentacion.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\CapaDePresentacion\obj\Debug\CapaDePresentacion.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\CapaDePresentacion\obj\Debug\CapaDePresentacion.csproj.CopyComplete
+C:\Users\USER\Desktop\CapaDePresentacion\obj\Debug\CapaDePresentacion.exe
+C:\Users\USER\Desktop\CapaDePresentacion\obj\Debug\CapaDePresentacion.pdb
+C:\Users\USER\Desktop\CapaDePresentacion\obj\Debug\CapaDePresentacion.FormEmpleados.resources
+C:\Users\USER\Desktop\CapaDePresentacion\obj\Debug\CapaDePresentacion.FormPeliculas.resources
+C:\Users\USER\Desktop\CapaDePresentacion\obj\Debug\CapaDePresentacion.FormReservas.resources

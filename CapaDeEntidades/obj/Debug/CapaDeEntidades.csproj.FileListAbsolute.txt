@@ -1,0 +1,23 @@
+C:\Users\Steven Suaza\Desktop\CapaDeEntidades\bin\Debug\CapaDeEntidades.dll.config
+C:\Users\Steven Suaza\Desktop\CapaDeEntidades\bin\Debug\CapaDeEntidades.dll
+C:\Users\Steven Suaza\Desktop\CapaDeEntidades\bin\Debug\CapaDeEntidades.pdb
+C:\Users\Steven Suaza\Desktop\CapaDeEntidades\bin\Debug\EntityFramework.dll
+C:\Users\Steven Suaza\Desktop\CapaDeEntidades\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Steven Suaza\Desktop\CapaDeEntidades\bin\Debug\EntityFramework.xml
+C:\Users\Steven Suaza\Desktop\CapaDeEntidades\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Steven Suaza\Desktop\CapaDeEntidades\obj\Debug\CapaDeEntidades.csprojAssemblyReference.cache
+C:\Users\Steven Suaza\Desktop\CapaDeEntidades\obj\Debug\CapaDeEntidades.csproj.CopyComplete
+C:\Users\Steven Suaza\Desktop\CapaDeEntidades\obj\Debug\CapaDeEntidades.dll
+C:\Users\Steven Suaza\Desktop\CapaDeEntidades\obj\Debug\CapaDeEntidades.pdb
+C:\Users\USER\Desktop\CapaDeEntidades\bin\Debug\CapaDeEntidades.dll.config
+C:\Users\USER\Desktop\CapaDeEntidades\bin\Debug\CapaDeEntidades.dll
+C:\Users\USER\Desktop\CapaDeEntidades\bin\Debug\CapaDeEntidades.pdb
+C:\Users\USER\Desktop\CapaDeEntidades\bin\Debug\EntityFramework.dll
+C:\Users\USER\Desktop\CapaDeEntidades\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\CapaDeEntidades\bin\Debug\EntityFramework.xml
+C:\Users\USER\Desktop\CapaDeEntidades\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\CapaDeEntidades\obj\Debug\CapaDeEntidades.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\CapaDeEntidades\obj\Debug\CapaDeEntidades.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\CapaDeEntidades\obj\Debug\CapaDeEntidades.csproj.CopyComplete
+C:\Users\USER\Desktop\CapaDeEntidades\obj\Debug\CapaDeEntidades.dll
+C:\Users\USER\Desktop\CapaDeEntidades\obj\Debug\CapaDeEntidades.pdb

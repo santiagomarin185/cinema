@@ -1,0 +1,27 @@
+C:\Users\Steven Suaza\Desktop\CapaDeLogica\bin\Debug\CapaDeLogica.dll
+C:\Users\Steven Suaza\Desktop\CapaDeLogica\bin\Debug\CapaDeLogica.pdb
+C:\Users\Steven Suaza\Desktop\CapaDeLogica\obj\Debug\CapaDeLogica.csprojAssemblyReference.cache
+C:\Users\Steven Suaza\Desktop\CapaDeLogica\obj\Debug\CapaDeLogica.dll
+C:\Users\Steven Suaza\Desktop\CapaDeLogica\obj\Debug\CapaDeLogica.pdb
+C:\Users\Steven Suaza\Desktop\CapaDeLogica\bin\Debug\CapaDeDatos.dll
+C:\Users\Steven Suaza\Desktop\CapaDeLogica\bin\Debug\CapaDeDatos.pdb
+C:\Users\Steven Suaza\Desktop\CapaDeLogica\obj\Debug\CapaDeLogica.csproj.CopyComplete
+C:\Users\Steven Suaza\Desktop\CapaDeLogica\bin\Debug\CapaDeEntidades.dll
+C:\Users\Steven Suaza\Desktop\CapaDeLogica\bin\Debug\EntityFramework.dll
+C:\Users\Steven Suaza\Desktop\CapaDeLogica\bin\Debug\CapaDeEntidades.pdb
+C:\Users\Steven Suaza\Desktop\CapaDeLogica\bin\Debug\CapaDeEntidades.dll.config
+C:\Users\Steven Suaza\Desktop\CapaDeLogica\bin\Debug\EntityFramework.xml
+C:\Users\USER\Desktop\CapaDeLogica\bin\Debug\CapaDeLogica.dll
+C:\Users\USER\Desktop\CapaDeLogica\bin\Debug\CapaDeLogica.pdb
+C:\Users\USER\Desktop\CapaDeLogica\bin\Debug\CapaDeDatos.dll
+C:\Users\USER\Desktop\CapaDeLogica\bin\Debug\CapaDeEntidades.dll
+C:\Users\USER\Desktop\CapaDeLogica\bin\Debug\EntityFramework.dll
+C:\Users\USER\Desktop\CapaDeLogica\bin\Debug\CapaDeDatos.pdb
+C:\Users\USER\Desktop\CapaDeLogica\bin\Debug\CapaDeEntidades.pdb
+C:\Users\USER\Desktop\CapaDeLogica\bin\Debug\CapaDeEntidades.dll.config
+C:\Users\USER\Desktop\CapaDeLogica\bin\Debug\EntityFramework.xml
+C:\Users\USER\Desktop\CapaDeLogica\obj\Debug\CapaDeLogica.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\CapaDeLogica\obj\Debug\CapaDeLogica.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\CapaDeLogica\obj\Debug\CapaDeLogica.csproj.CopyComplete
+C:\Users\USER\Desktop\CapaDeLogica\obj\Debug\CapaDeLogica.dll
+C:\Users\USER\Desktop\CapaDeLogica\obj\Debug\CapaDeLogica.pdb

@@ -1,0 +1,23 @@
+C:\Users\Steven Suaza\Desktop\CapaDeDatos\bin\Debug\CapaDeDatos.dll
+C:\Users\Steven Suaza\Desktop\CapaDeDatos\bin\Debug\CapaDeDatos.pdb
+C:\Users\Steven Suaza\Desktop\CapaDeDatos\obj\Debug\CapaDeDatos.csprojAssemblyReference.cache
+C:\Users\Steven Suaza\Desktop\CapaDeDatos\obj\Debug\CapaDeDatos.dll
+C:\Users\Steven Suaza\Desktop\CapaDeDatos\obj\Debug\CapaDeDatos.pdb
+C:\Users\Steven Suaza\Desktop\CapaDeDatos\bin\Debug\CapaDeEntidades.dll
+C:\Users\Steven Suaza\Desktop\CapaDeDatos\bin\Debug\EntityFramework.dll
+C:\Users\Steven Suaza\Desktop\CapaDeDatos\bin\Debug\CapaDeEntidades.pdb
+C:\Users\Steven Suaza\Desktop\CapaDeDatos\bin\Debug\CapaDeEntidades.dll.config
+C:\Users\Steven Suaza\Desktop\CapaDeDatos\bin\Debug\EntityFramework.xml
+C:\Users\Steven Suaza\Desktop\CapaDeDatos\obj\Debug\CapaDeDatos.csproj.CopyComplete
+C:\Users\USER\Desktop\CapaDeDatos\bin\Debug\CapaDeDatos.dll
+C:\Users\USER\Desktop\CapaDeDatos\bin\Debug\CapaDeDatos.pdb
+C:\Users\USER\Desktop\CapaDeDatos\bin\Debug\CapaDeEntidades.dll
+C:\Users\USER\Desktop\CapaDeDatos\bin\Debug\EntityFramework.dll
+C:\Users\USER\Desktop\CapaDeDatos\bin\Debug\CapaDeEntidades.pdb
+C:\Users\USER\Desktop\CapaDeDatos\bin\Debug\CapaDeEntidades.dll.config
+C:\Users\USER\Desktop\CapaDeDatos\bin\Debug\EntityFramework.xml
+C:\Users\USER\Desktop\CapaDeDatos\obj\Debug\CapaDeDatos.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\CapaDeDatos\obj\Debug\CapaDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\CapaDeDatos\obj\Debug\CapaDeDatos.csproj.CopyComplete
+C:\Users\USER\Desktop\CapaDeDatos\obj\Debug\CapaDeDatos.dll
+C:\Users\USER\Desktop\CapaDeDatos\obj\Debug\CapaDeDatos.pdb
