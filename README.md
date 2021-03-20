@@ -1,3 +1,3 @@
-# cinema
-Santiago Esneider Marin
-Luis David De Hoyos
+# Cinema
+# Santiago Esneider Marin
+# Luis David De hoyos
