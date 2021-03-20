@@ -21,3 +21,15 @@ C:\Users\USER\Desktop\CapaDeEntidades\obj\Debug\CapaDeEntidades.csproj.CoreCompi
 C:\Users\USER\Desktop\CapaDeEntidades\obj\Debug\CapaDeEntidades.csproj.CopyComplete
 C:\Users\USER\Desktop\CapaDeEntidades\obj\Debug\CapaDeEntidades.dll
 C:\Users\USER\Desktop\CapaDeEntidades\obj\Debug\CapaDeEntidades.pdb
+C:\Users\Luis David De hoyos\Documents\GitHub\cinema\CapaDeEntidades\bin\Debug\CapaDeEntidades.dll.config
+C:\Users\Luis David De hoyos\Documents\GitHub\cinema\CapaDeEntidades\bin\Debug\CapaDeEntidades.dll
+C:\Users\Luis David De hoyos\Documents\GitHub\cinema\CapaDeEntidades\bin\Debug\CapaDeEntidades.pdb
+C:\Users\Luis David De hoyos\Documents\GitHub\cinema\CapaDeEntidades\bin\Debug\EntityFramework.dll
+C:\Users\Luis David De hoyos\Documents\GitHub\cinema\CapaDeEntidades\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Luis David De hoyos\Documents\GitHub\cinema\CapaDeEntidades\bin\Debug\EntityFramework.xml
+C:\Users\Luis David De hoyos\Documents\GitHub\cinema\CapaDeEntidades\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Luis David De hoyos\Documents\GitHub\cinema\CapaDeEntidades\obj\Debug\CapaDeEntidades.csprojAssemblyReference.cache
+C:\Users\Luis David De hoyos\Documents\GitHub\cinema\CapaDeEntidades\obj\Debug\CapaDeEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Luis David De hoyos\Documents\GitHub\cinema\CapaDeEntidades\obj\Debug\CapaDeEntidades.csproj.CopyComplete
+C:\Users\Luis David De hoyos\Documents\GitHub\cinema\CapaDeEntidades\obj\Debug\CapaDeEntidades.dll
+C:\Users\Luis David De hoyos\Documents\GitHub\cinema\CapaDeEntidades\obj\Debug\CapaDeEntidades.pdb

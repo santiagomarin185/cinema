@@ -16,58 +16,18 @@ namespace CapaDePresentacion
         public FormClientes()
         {
             InitializeComponent();
-            ListarClientes();
+            ListarClientesEF();
         }
 
         public ClientesLogica Cliente = new ClientesLogica();
 
-        #region ADO .NET
-        public void ListarClientes()
-        {
-            dataGridViewClientes.DataSource = Cliente.ListarClientes();
-        }
-
-        private void buttonInsertarCliente_Click(object sender, EventArgs e)
-        {
-            var identificacion = textBoxIdentificacion.Text;
-            var nombres = textBoxNombre.Text;
-            var apellidos = textBoxApellidos.Text;
-            var direccion = textBoxDireccion.Text;
-            var telefono = textBoxTelefono.Text;
-            var fecha = dateTimePickerFecha.Value;
-
-            var mensaje = Cliente.InsertarCliente(identificacion, nombres, apellidos, direccion, telefono, fecha);
-
-            MessageBox.Show(mensaje);
-            ListarClientes();
-        }
-
-        private void buttonActualizarCliente_Click(object sender, EventArgs e)
-        {
-            var identificacion = textBoxIdentificacion.Text;
-            var nombres = textBoxNombre.Text;
-            var apellidos = textBoxApellidos.Text;
-            var direccion = textBoxDireccion.Text;
-            var telefono = textBoxTelefono.Text;
-            var fecha = dateTimePickerFecha.Value;
-
-            var mensaje = Cliente.ActualizarCliente(identificacion, nombres, apellidos, direccion, telefono, fecha);
-
-            MessageBox.Show(mensaje);
-            ListarClientes();
-        }
-        private void buttonEliminarCliente_Click(object sender, EventArgs e)
-        {
-            var identifacion = textBoxIdentificacion.Text;
-
-            var mensaje = Cliente.EliminarCliente(identifacion);
-
-            MessageBox.Show(mensaje);
-            ListarClientes();
-        }
-        #endregion
 
         #region Entity Framework
+        public void ListarClientesEF()
+        {
+            dataGridViewClientes.DataSource = Cliente.ListarClientesEF();
+        }
+
         private void buttonInsertarClienteEF_Click(object sender, EventArgs e)
         {
             var identificacion = textBoxIdentificacion.Text;
@@ -94,7 +54,7 @@ namespace CapaDePresentacion
             }
 
             MessageBox.Show(mensaje);
-            ListarClientes();
+            ListarClientesEF();
         }
 
         private void buttonActualizarClienteEF_Click(object sender, EventArgs e)

@@ -52,3 +52,32 @@ C:\Users\USER\Desktop\CapaDePresentacion\obj\Debug\CapaDePresentacion.pdb
 C:\Users\USER\Desktop\CapaDePresentacion\obj\Debug\CapaDePresentacion.FormEmpleados.resources
 C:\Users\USER\Desktop\CapaDePresentacion\obj\Debug\CapaDePresentacion.FormPeliculas.resources
 C:\Users\USER\Desktop\CapaDePresentacion\obj\Debug\CapaDePresentacion.FormReservas.resources
+C:\Users\Luis David De hoyos\Documents\GitHub\cinema\CapaDePresentacion\obj\Debug\CapaDePresentacion.csprojAssemblyReference.cache
+C:\Users\Luis David De hoyos\Documents\GitHub\cinema\CapaDePresentacion\obj\Debug\CapaDePresentacion.FormClientes.resources
+C:\Users\Luis David De hoyos\Documents\GitHub\cinema\CapaDePresentacion\obj\Debug\CapaDePresentacion.FormEmpleados.resources
+C:\Users\Luis David De hoyos\Documents\GitHub\cinema\CapaDePresentacion\obj\Debug\CapaDePresentacion.FormLogin.resources
+C:\Users\Luis David De hoyos\Documents\GitHub\cinema\CapaDePresentacion\obj\Debug\CapaDePresentacion.FormPeliculas.resources
+C:\Users\Luis David De hoyos\Documents\GitHub\cinema\CapaDePresentacion\obj\Debug\CapaDePresentacion.FormPrincipal.resources
+C:\Users\Luis David De hoyos\Documents\GitHub\cinema\CapaDePresentacion\obj\Debug\CapaDePresentacion.FormReservas.resources
+C:\Users\Luis David De hoyos\Documents\GitHub\cinema\CapaDePresentacion\obj\Debug\CapaDePresentacion.Properties.Resources.resources
+C:\Users\Luis David De hoyos\Documents\GitHub\cinema\CapaDePresentacion\obj\Debug\CapaDePresentacion.csproj.GenerateResource.cache
+C:\Users\Luis David De hoyos\Documents\GitHub\cinema\CapaDePresentacion\obj\Debug\CapaDePresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Luis David De hoyos\Documents\GitHub\cinema\CapaDePresentacion\obj\Debug\CapaDePresentacion.exe
+C:\Users\Luis David De hoyos\Documents\GitHub\cinema\CapaDePresentacion\obj\Debug\CapaDePresentacion.pdb
+C:\Users\Luis David De hoyos\Documents\GitHub\cinema\CapaDePresentacion\bin\Debug\CapaDePresentacion.exe.config
+C:\Users\Luis David De hoyos\Documents\GitHub\cinema\CapaDePresentacion\bin\Debug\CapaDePresentacion.exe
+C:\Users\Luis David De hoyos\Documents\GitHub\cinema\CapaDePresentacion\bin\Debug\CapaDePresentacion.pdb
+C:\Users\Luis David De hoyos\Documents\GitHub\cinema\CapaDePresentacion\bin\Debug\CapaDeEntidades.dll
+C:\Users\Luis David De hoyos\Documents\GitHub\cinema\CapaDePresentacion\bin\Debug\CapaDeLogica.dll
+C:\Users\Luis David De hoyos\Documents\GitHub\cinema\CapaDePresentacion\bin\Debug\EntityFramework.dll
+C:\Users\Luis David De hoyos\Documents\GitHub\cinema\CapaDePresentacion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Luis David De hoyos\Documents\GitHub\cinema\CapaDePresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Luis David De hoyos\Documents\GitHub\cinema\CapaDePresentacion\bin\Debug\MaterialSkin.dll
+C:\Users\Luis David De hoyos\Documents\GitHub\cinema\CapaDePresentacion\bin\Debug\CapaDeDatos.dll
+C:\Users\Luis David De hoyos\Documents\GitHub\cinema\CapaDePresentacion\bin\Debug\CapaDeEntidades.pdb
+C:\Users\Luis David De hoyos\Documents\GitHub\cinema\CapaDePresentacion\bin\Debug\CapaDeEntidades.dll.config
+C:\Users\Luis David De hoyos\Documents\GitHub\cinema\CapaDePresentacion\bin\Debug\CapaDeLogica.pdb
+C:\Users\Luis David De hoyos\Documents\GitHub\cinema\CapaDePresentacion\bin\Debug\EntityFramework.xml
+C:\Users\Luis David De hoyos\Documents\GitHub\cinema\CapaDePresentacion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Luis David De hoyos\Documents\GitHub\cinema\CapaDePresentacion\bin\Debug\CapaDeDatos.pdb
+C:\Users\Luis David De hoyos\Documents\GitHub\cinema\CapaDePresentacion\obj\Debug\CapaDePresentacion.csproj.CopyComplete

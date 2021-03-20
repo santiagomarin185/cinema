@@ -53,14 +53,60 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Cine3dContext.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Cine3dContext.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Cine3dContext.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Cine3dContext.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Cine3dContext.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Cine3dContext.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="Cliente.cs">
+      <DependentUpon>Cine3dContext.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Empleados.cs">
+      <DependentUpon>Cine3dContext.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Peliculas.cs">
+      <DependentUpon>Cine3dContext.tt</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reservas.cs">
+      <DependentUpon>Cine3dContext.tt</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <EntityDeploy Include="Cine3dContext.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>Cine3dContext.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="Cine3dContext.edmx.diagram">
+      <DependentUpon>Cine3dContext.edmx</DependentUpon>
+    </None>
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Cine3dContext.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>Cine3dContext.edmx</DependentUpon>
+      <LastGenOutput>Cine3dContext.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="Cine3dContext.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>Cine3dContext.edmx</DependentUpon>
+      <LastGenOutput>Cine3dContext.cs</LastGenOutput>
+    </Content>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

@@ -21,3 +21,15 @@ C:\Users\USER\Desktop\CapaDeDatos\obj\Debug\CapaDeDatos.csproj.CoreCompileInputs
 C:\Users\USER\Desktop\CapaDeDatos\obj\Debug\CapaDeDatos.csproj.CopyComplete
 C:\Users\USER\Desktop\CapaDeDatos\obj\Debug\CapaDeDatos.dll
 C:\Users\USER\Desktop\CapaDeDatos\obj\Debug\CapaDeDatos.pdb
+C:\Users\Luis David De hoyos\Documents\GitHub\cinema\CapaDeDatos\bin\Debug\CapaDeDatos.dll
+C:\Users\Luis David De hoyos\Documents\GitHub\cinema\CapaDeDatos\bin\Debug\CapaDeDatos.pdb
+C:\Users\Luis David De hoyos\Documents\GitHub\cinema\CapaDeDatos\bin\Debug\CapaDeEntidades.dll
+C:\Users\Luis David De hoyos\Documents\GitHub\cinema\CapaDeDatos\bin\Debug\EntityFramework.dll
+C:\Users\Luis David De hoyos\Documents\GitHub\cinema\CapaDeDatos\bin\Debug\CapaDeEntidades.pdb
+C:\Users\Luis David De hoyos\Documents\GitHub\cinema\CapaDeDatos\bin\Debug\CapaDeEntidades.dll.config
+C:\Users\Luis David De hoyos\Documents\GitHub\cinema\CapaDeDatos\bin\Debug\EntityFramework.xml
+C:\Users\Luis David De hoyos\Documents\GitHub\cinema\CapaDeDatos\obj\Debug\CapaDeDatos.csprojAssemblyReference.cache
+C:\Users\Luis David De hoyos\Documents\GitHub\cinema\CapaDeDatos\obj\Debug\CapaDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\Luis David De hoyos\Documents\GitHub\cinema\CapaDeDatos\obj\Debug\CapaDeDatos.csproj.CopyComplete
+C:\Users\Luis David De hoyos\Documents\GitHub\cinema\CapaDeDatos\obj\Debug\CapaDeDatos.dll
+C:\Users\Luis David De hoyos\Documents\GitHub\cinema\CapaDeDatos\obj\Debug\CapaDeDatos.pdb

@@ -25,3 +25,17 @@ C:\Users\USER\Desktop\CapaDeLogica\obj\Debug\CapaDeLogica.csproj.CoreCompileInpu
 C:\Users\USER\Desktop\CapaDeLogica\obj\Debug\CapaDeLogica.csproj.CopyComplete
 C:\Users\USER\Desktop\CapaDeLogica\obj\Debug\CapaDeLogica.dll
 C:\Users\USER\Desktop\CapaDeLogica\obj\Debug\CapaDeLogica.pdb
+C:\Users\Luis David De hoyos\Documents\GitHub\cinema\CapaDeLogica\obj\Debug\CapaDeLogica.csprojAssemblyReference.cache
+C:\Users\Luis David De hoyos\Documents\GitHub\cinema\CapaDeLogica\obj\Debug\CapaDeLogica.csproj.CoreCompileInputs.cache
+C:\Users\Luis David De hoyos\Documents\GitHub\cinema\CapaDeLogica\obj\Debug\CapaDeLogica.dll
+C:\Users\Luis David De hoyos\Documents\GitHub\cinema\CapaDeLogica\obj\Debug\CapaDeLogica.pdb
+C:\Users\Luis David De hoyos\Documents\GitHub\cinema\CapaDeLogica\bin\Debug\CapaDeLogica.dll
+C:\Users\Luis David De hoyos\Documents\GitHub\cinema\CapaDeLogica\bin\Debug\CapaDeLogica.pdb
+C:\Users\Luis David De hoyos\Documents\GitHub\cinema\CapaDeLogica\bin\Debug\CapaDeDatos.dll
+C:\Users\Luis David De hoyos\Documents\GitHub\cinema\CapaDeLogica\bin\Debug\CapaDeEntidades.dll
+C:\Users\Luis David De hoyos\Documents\GitHub\cinema\CapaDeLogica\bin\Debug\EntityFramework.dll
+C:\Users\Luis David De hoyos\Documents\GitHub\cinema\CapaDeLogica\bin\Debug\CapaDeDatos.pdb
+C:\Users\Luis David De hoyos\Documents\GitHub\cinema\CapaDeLogica\bin\Debug\CapaDeEntidades.pdb
+C:\Users\Luis David De hoyos\Documents\GitHub\cinema\CapaDeLogica\bin\Debug\CapaDeEntidades.dll.config
+C:\Users\Luis David De hoyos\Documents\GitHub\cinema\CapaDeLogica\bin\Debug\EntityFramework.xml
+C:\Users\Luis David De hoyos\Documents\GitHub\cinema\CapaDeLogica\obj\Debug\CapaDeLogica.csproj.CopyComplete
